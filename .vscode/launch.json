@@ -10,6 +10,11 @@
             "request": "attach"
         },
         {
+            "name": "Dart: Attach to Process",
+            "type": "dart",
+            "request": "attach"
+        },
+        {
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
